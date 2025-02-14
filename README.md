@@ -47,7 +47,6 @@ A More Complete List of AI Directories are available on **[best-of-ai/ai-directo
 - [PitchGround](https://pitchground.com/) - Lifetime SaaS deals and marketing.
 - [Dealify](https://dealify.com/) - SaaS deals for early adopters.
 - [StackSocial](https://stacksocial.com/) - Software deals and bundles.
-- [SaaSPromo](https://saaspromo.com/) - Promote your SaaS with targeted campaigns.
 
 ---
 
